@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(14, 14, 27);
+    color:rgb(10, 241, 164);
+    font-family: "Nerko One", cursive;
+    padding:0 150px;
+}
+
+
+
+
+header{
+    backgroud-color: cadetblue;
+    padding: 40px;
+}
+
+p{
+ font-size: 30px;
+}  
+
+.links{
+    color:rgb(234, 234, 241);
+    font-size:30px;
+    text-decoration:none;
+    background-color: rgb(15, 15, 212);
+    padding:5px 25px;
+    border-radius:30px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
